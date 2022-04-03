@@ -7,5 +7,5 @@ All Personal Projects related to Data Science
 
 # Primogems predictor - Regression Models - Genshin Impact
 * My First project using, testing and evaluating regressions models.
-* It is predictor for when I'm going to start spending my hard earned primogems ( paid currency in-game )
+* Predict when I'm going to start spending my hard earned primogems ( paid currency in-game )
 * I have collected all data manually over 400 days and, after some more weeks, over 600 days
